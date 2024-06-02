@@ -4,11 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/01-springboot-overview.iml" filepath="$PROJECT_DIR$/.idea/01-springboot-overview.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-spring-demo/mycoolapp.iml" filepath="$PROJECT_DIR$/01-spring-demo/mycoolapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-actuator-demo/mycoolapp (1).iml" filepath="$PROJECT_DIR$/03-actuator-demo/mycoolapp (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-demo/mycoolapp (1).iml" filepath="$PROJECT_DIR$/01-spring-demo/mycoolapp (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/02-dev-tools-demo/mycoolapp (2).iml" filepath="$PROJECT_DIR$/02-dev-tools-demo/mycoolapp (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/06-properties-demo/mycoolapp (3).iml" filepath="$PROJECT_DIR$/06-properties-demo/mycoolapp (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/05-commandline-demo/mycoolapp (4).iml" filepath="$PROJECT_DIR$/05-commandline-demo/mycoolapp (4).iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-actuator-security/mycoolapp (5).iml" filepath="$PROJECT_DIR$/04-actuator-security/mycoolapp (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-actuator-demo/mycoolapp (3).iml" filepath="$PROJECT_DIR$/03-actuator-demo/mycoolapp (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-actuator-security/mycoolapp (4).iml" filepath="$PROJECT_DIR$/04-actuator-security/mycoolapp (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-commandline-demo/mycoolapp (5).iml" filepath="$PROJECT_DIR$/05-commandline-demo/mycoolapp (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-properties-demo/mycoolapp (6).iml" filepath="$PROJECT_DIR$/06-properties-demo/mycoolapp (6).iml" />
     </modules>
   </component>
 </project>
